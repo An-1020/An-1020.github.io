@@ -18,7 +18,7 @@
 
     <td width="25%">
 
-      <img src="/63139779084_avatar.png" width="100%">      % 插入证件照代码
+      <img src="/63139779084_avatar.png" width="100%">     
 
     </td>
 
