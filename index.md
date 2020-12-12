@@ -22,5 +22,18 @@
 
     </td>
 
-
-
+ <table border="0">
+  <tr>
+    <td width="75%">
+      <h2>兴趣爱好</h2>
+      <p><b>读书</b></p>
+      <p><b>玩王者荣耀</b></p>
+      <p><b>旅游</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
+ 
+ 
