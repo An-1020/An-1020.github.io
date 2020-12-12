@@ -21,8 +21,9 @@
       
       
       
-      
-      <img src="/63139779084_avatar.png" width="100%">     
+        
+      <img src="/" width="100%">
+      <img src="/63139779084_avatar.png" width="100%">
 
     </td>
 
