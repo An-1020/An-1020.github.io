@@ -29,24 +29,15 @@
 
     </td>
 
- <table border="0">
-  <tr>
-    <td width="75%">
-      <h2>兴趣爱好</h2>
-      <p><b>读书</b></p>
-      <p><b>玩王者荣耀</b></p>
-      <p><b>旅游</b></p>
-    </td>
-    <td width="25%">
-     
-     
-     
-     
-      <img src="/timg-1607760402570.jpeg" width="100%">      
+ 
+      #  兴趣爱好:
+      # # 读书
+      <img src="/timg-1607760402570.jpeg" width="100%"> 
+      # # 玩王者荣耀
       <img src="/timg-1607760499157.jpeg" width="100%"> 
+      # # 旅游
       <img src="/timg-1607760536023.ipeg" width="100%">
-    </td>
-  </tr>
-</table>
- 
- 
+     
+     
+     
+    
