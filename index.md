@@ -24,7 +24,7 @@
       
       
         
-      <img src="/63139779084_avatar.png" width="100%">
+      <img src="/u_572257926_4239148500%26fm_193%26app_53%26size_w414%26n_0%26g_0n%26f_jpeg" width="100%">
       <img src="/63139779084_avatar.png" width="100%">
 
     </td>
