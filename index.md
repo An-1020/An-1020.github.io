@@ -31,7 +31,7 @@
       <p><b>旅游</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      
+      <img src="/timg-1607760402570.jpeg" width="100%">      
     </td>
   </tr>
 </table>
