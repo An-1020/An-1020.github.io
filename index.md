@@ -13,7 +13,7 @@
 
      专业:  工业设计
 
-      <img src="https://github.com/An-1020/An-1020.github.io/blob/main/63139779084_avatar.png " width="50%">
+      <img src="63139779084_avatar.png " width="50%">
      
       <img src="u_572257926_4239148500%26fm_193%26app_53%26size_w414%26n_0%26g_0n%26f_jpeg" width="100%">
   
