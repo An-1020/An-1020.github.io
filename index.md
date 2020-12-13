@@ -1,39 +1,48 @@
 
-个人信息
+<table border="0">
+
+  <tr>
+
+    <td width="75%">
+
+      <h1>个人信息</h1>
       
-     姓名： 安博
+      <h2>安博</h2>
 
-     年级： 大一
+      <p><b>大一</b></p>
 
-     学校:  南京理工大学设计艺术与传媒学院
+      <p><b>学校:南京理工大学设计艺术与传媒学院</b></p>
 
-     邮箱:  1135885057@qq.com
+      <p><b>邮箱:1135885057@qq.com</b></p>
 
-     地址:  黑龙江省牡丹江市
+      <p><b>地址:黑龙江省牡丹江市</b></p>
 
-     专业:  工业设计
+      <p><b>专业:工业设计
 
-      <imgsrc="http://m.qpic.cn/psc?/V5354vFw1r6RLH1aW8LV30oY4L0NAYBH/45NBuzDIW489QBoVep5mcV8WpVQvWGnaOdcSx64KEPnQ0Iy12vCmCXBc6jo2jeVUNA59Q4jpGBflP.D*5wyJmE*U*Jc2AnQR4FXbLLV.MwQ!/b&bo=OAQ4BAAAAAABFzA!&rf=viewer_4 " width="50%">
-     
-      <img src="u_572257926_4239148500%26fm_193%26app_53%26size_w414%26n_0%26g_0n%26f_jpeg" width="100%">
-  
+    <td width="25%">
 
-    
+      
+      
+      
+        
+      <img src="/u_572257926_4239148500%26fm_193%26app_53%26size_w414%26n_0%26g_0n%26f_jpeg" width="100%">
+      <img src="/63139779084_avatar.png" width="100%">
 
+    </td>
+
+ <table border="0">
+  <tr>
+    <td width="75%">
+      <h2>兴趣爱好</h2>
+      <p><b>读书</b></p>
+      <p><b>玩王者荣耀</b></p>
+      <p><b>旅游</b></p>
+    </td>
+    <td width="25%">
+          <img src="/timg-1607760402570.jpeg" width="50%">      
+      <img src="/timg-1607760499157.jpeg" width="50%"> 
+      <img src="/timg-1607760536023.ipeg" width="50%">
+    </td>
+  </tr>
+</table>
  
-      兴趣爱好:
-              读书
-              
-      <img src="timg-1607760402570.jpeg" width="50%"> 
-            
-              玩王者荣耀
-     
-       <img src="timg-1607760499157.jpeg" width="50%"> 
-              
-              旅游
-     
-       <img src="timg-1607760536023.ipeg" width="50%">
-     
-     
-     
-    
