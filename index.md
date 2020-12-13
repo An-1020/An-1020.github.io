@@ -1,58 +1,51 @@
-个人信息
+<table border="0">
 
+  <tr>
+
+    <td width="75%">
+
+      <h1>个人信息</h1>
       
+      <p><b>姓名:安博</b></p>
 
-     姓名： 安博
+      <p><b>年级:大一</b></p>
 
-     年级： 大一
+      <p><b>学校:南京理工大学设计艺术与传媒学院</b></p>
 
-     学校:  南京理工大学设计艺术与传媒学院
+      <p><b>邮箱:1135885057@qq.com</b></p>
 
-     邮箱:  1135885057@qq.com
+      <p><b>地址:黑龙江省牡丹江市</b></p>
 
-     地址:  黑龙江省牡丹江市
+      <p><b>专业:工业设计
 
-     专业:  工业设计
+    <td width="25%">
 
-      <imgsrc="https://github.com/An-1020/An-1020.github.io/blob/main/63139779084_avatar.png?raw=true" width="50%">
+      <img src="/63139779084_avatar.png" width="100%">
 
+    </td>
+
+ <table border="0">
+  <tr>
+    <td width="75%">
+      <h2>兴趣爱好</h2>
+      <p><b>读书</b></p>
+      <p><b>玩王者荣耀</b></p>
+      <p><b>旅游</b></p>
+    </td>
+    <td width="25%">
      
-
-      
-
-  
-
-    
-
+     
+     
+     
+      <img src="/timg-1607760402570.jpeg" width="100%">      
+      <img src="/timg-1607760499157.jpeg" width="100%"> 
+      <img src="/timg-1607760536023.ipeg" width="100%">
+    </td>
+  </tr>
+</table>
+ 
  
 
-      兴趣爱好:
-
-              读书
-
-              
-
-      <img src="https://github.com/An-1020/An-1020.github.io/blob/main/timg-1607760402570.jpeg?raw=true" width="50%"> 
-
-            
-
-              玩王者荣耀
-
-     
-
-       <img src="https://github.com/An-1020/An-1020.github.io/blob/main/timg-1607760499157.jpeg?raw=true" width="50%"> 
-
-              
-
-              旅游
-
-     
-
-       <img src="https://github.com/An-1020/An-1020.github.io/blob/main/timg-1607760536023.jpeg?raw=true" width="50%">
-
-    
-
- 
 
  
 
