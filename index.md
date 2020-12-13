@@ -27,7 +27,8 @@
       <img src="timg-1607760402570.jpeg" width="50%"> 
             
               玩王者荣耀
-      <img src="timg-1607760499157.jpeg" width="50%"> 
+     
+       <img src="timg-1607760499157.jpeg" width="50%"> 
               
               旅游
      
