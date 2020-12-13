@@ -1,3 +1,4 @@
+
 个人信息
       
      姓名： 安博
@@ -14,19 +15,20 @@
 
       
         
-      <img src="/u_572257926_4239148500%26fm_193%26app_53%26size_w414%26n_0%26g_0n%26f_jpeg" width="100%">
-      <img src="/63139779084_avatar.png" width="100%">
+      <img src="63139779084_avatar.png" width="50%">
+      <img src="u_572257926_4239148500%26fm_193%26app_53%26size_w414%26n_0%26g_0n%26f_jpeg" width="100%">
+  
 
     
 
  
       兴趣爱好:
               读书
-      <img src="/timg-1607760402570.jpeg" width="50%"> 
+      <img src="timg-1607760402570.jpeg" width="50%"> 
               玩王者荣耀
-      <img src="/timg-1607760499157.jpeg" width="50%"> 
+      <img src="timg-1607760499157.jpeg" width="50%"> 
               旅游
-      <img src="/timg-1607760536023.ipeg" width="50%">
+      <img src="timg-1607760536023.ipeg" width="50%">
      
      
      
